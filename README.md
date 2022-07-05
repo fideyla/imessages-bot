@@ -1,5 +1,6 @@
 # imessages-bot
-NOTES : Script hanya berfungsi pada Mac karena menggunakan AppleScript
+NOTES : Script hanya berfungsi pada Mac karena menggunakan AppleScript.
+
 Pada file send.scpt terdapat applescript yang akan mengirim pesan melalui iMessage:
 
 on run {targetPhoneNumber, targetMessageToSend}
